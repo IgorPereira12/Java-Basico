@@ -1,2 +1,7 @@
-# java-b-sico
-Exemplos de Java básico da trilha da DIO.
+# Java Básico
+
+## Repositório criado para a trilha Java.
+
+###Links úteis
+
+[Git Book Java Básico](https://felipe-silva-aguiar.gitbook.io/dio-java/gitbook/summary)
